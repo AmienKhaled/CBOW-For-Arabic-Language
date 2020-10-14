@@ -131,9 +131,7 @@ dmypy.json
 # Notebook check points
 .ipynb_checkpoints/
 
-# data
-.data/
-data/
+
 
 # old
 .old/
