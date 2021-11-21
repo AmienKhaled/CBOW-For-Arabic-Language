@@ -11,5 +11,5 @@ Train you own CBOW From scratch Using Python
 # المقال
 
 <p dir='rtl'>
-لقراءة المقال <a href='https://amienkhaled.me/blog/Make-Your-Own-CBOW/'>الرابط</a>.
+لقراءة المقال <a href='https://amienkhaled.com/blog/Make-Your-Own-CBOW/'>الرابط</a>.
 </p>
